@@ -1,0 +1,21 @@
+{
+  "releases": [
+    {
+      "id": 0,
+      "artist_name": "Odee-loh",
+      "release": {
+        "name": "Can't Let You Down",
+        "cover_url": "",
+        "preorder": false,
+        "release_date": "2022-03-22"
+      },
+      "dsps": [
+        {
+          "name": "Apple Music",
+          "href": "",
+          "preorderHref": ""
+        }
+      ]
+    }
+  ]
+}
